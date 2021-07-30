@@ -1,7 +1,6 @@
 package com.mph.controller;
 
 
-
 public interface CinemaTicketInterface{
 	public List addEmployee();
 
